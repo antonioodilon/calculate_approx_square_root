@@ -1,0 +1,1 @@
+This program written in C#/.NET calculates the approximate square root of an integer, whether the square root is also an exact integer or not. Therefore, it is able to deal both with integers such as 9, 16 and 25, and also with 41, 33 or 7.
