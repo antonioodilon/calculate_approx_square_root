@@ -1,0 +1,15 @@
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\calculate_square_root\bin\Debug\net6.0\calculate_square_root.exe
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\calculate_square_root\bin\Debug\net6.0\calculate_square_root.deps.json
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\calculate_square_root\bin\Debug\net6.0\calculate_square_root.runtimeconfig.json
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\calculate_square_root\bin\Debug\net6.0\calculate_square_root.dll
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\calculate_square_root\bin\Debug\net6.0\calculate_square_root.pdb
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\calculate_square_root\obj\Debug\net6.0\calculate_square_root.csproj.AssemblyReference.cache
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\calculate_square_root\obj\Debug\net6.0\calculate_square_root.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\calculate_square_root\obj\Debug\net6.0\calculate_square_root.AssemblyInfoInputs.cache
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\calculate_square_root\obj\Debug\net6.0\calculate_square_root.AssemblyInfo.cs
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\calculate_square_root\obj\Debug\net6.0\calculate_square_root.csproj.CoreCompileInputs.cache
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\calculate_square_root\obj\Debug\net6.0\calculate_square_root.dll
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\calculate_square_root\obj\Debug\net6.0\refint\calculate_square_root.dll
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\calculate_square_root\obj\Debug\net6.0\calculate_square_root.pdb
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\calculate_square_root\obj\Debug\net6.0\calculate_square_root.genruntimeconfig.cache
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\calculate_square_root\obj\Debug\net6.0\ref\calculate_square_root.dll
